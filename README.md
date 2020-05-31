@@ -1,4 +1,4 @@
-Links to the csv's we provided:
+Links to the csv's used:
 
 time_series_covid19_deaths_US.csv: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
 
